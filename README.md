@@ -37,4 +37,5 @@ four rules:
 - Run the tests with `bundle exec rspec`
 - ???
 - Profit!
+- `git reset --hard` at the end!
 
